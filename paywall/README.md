@@ -12,5 +12,11 @@ We ask that anyone that has access to such LGBT papers or data AND is willing to
 
 - `papers` is to just hold research papers that are in `pdf` format from any discipline and are within 10 years (ideally) of being published.
 
-> Any dataset that is pulled from a paper should be made into a `csv` or `xlsx` and file an issue so that it is put into the data section of the repository. 
+
+
+
+
+
+
+
 
